@@ -1,0 +1,4 @@
+export const privateConfig = {
+  analyticsWriteKey: "replace_me",
+  internalApiKey: "replace_me"
+};
